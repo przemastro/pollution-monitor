@@ -1,5 +1,4 @@
-# pollution-monitor
-## PollutionMonitor
+# PollutionMonitor
 [![GitHub issues](https://img.shields.io/github/issues/przemastro/pollution-monitor)](https://github.com/przemastro/pollution-monitor/issues)
 [![GitHub forks](https://img.shields.io/github/forks/przemastro/pollution-monitor)](https://github.com/przemastro/pollution-monitor/network)
 [![GitHub stars](https://img.shields.io/github/stars/przemastro/pollution-monitor)](https://github.com/przemastro/pollution-monitor/stargazers)
